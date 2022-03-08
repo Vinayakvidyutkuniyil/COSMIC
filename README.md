@@ -74,7 +74,7 @@ $ node julie.js
   <a href="https://github.com/ANUSER1/COSMIC">
     
 <a href="https://github.com/ANUSER1/followers">
-<img src="https://img.shields.io/github/repo-size/cyberchekuthan/Kaztroserv1_v2?color=green&label=Repo%20total%20size&style=plastic">
+<img src="https://img.shields.io/github/repo-size/ANUSER1/COSMIC?color=black&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/ANUSER1/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/ANUSER?color=black&style=flat-square"></a>
@@ -90,23 +90,22 @@ $ node julie.js
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/DnHJu25Ccss7zn72nPhL8z)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AMRUSIR&repo=AMRU-ser&theme=nightowl)](https://github.com/AMRUSIR/AMRU-SER)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ANUSRR1&repo=COSMIC&theme=nightowl)](https://github.com/ANUSER1/COSMIC)
   </div>
     
-### ⚠ Warning ⚠
+### ⚠ 𝕎𝕒𝕣𝕟𝕚𝕟𝕘 ⚠
 
 ```
 By using kick, add, promote, demote Commands, Your WhatsApp account may be banned.
 
 ```
-**[![AMRU-SER](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](http://wa.me/917025631103?text=Can%20you%20help%20bro)**
+**[![ANSHID](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](http://wa.me/916238560742?text=Can%20you%20help%20bro)**
 
 ## Developers
   <div align="center">
     
-  [![AMRU-SER](https://github.com/AMRUSIR.png?size=100)](https://github.com/AMRUSIR) | [![Ajx-Abu](https://github.com/Ajx-Abu.png?size=100)](https://github.com/Ajx-Abu) 
-----|----|----|----
-[AMRU-SER](https://github.com/AMRUSIR) | [Ajx-Abu](https://github.com/Ajx-Abu)
+  [![ANUSER1](https://github.com/ANUSER1.png?size=500)](https://github.com/ANUSER1) |
+[ANSHID](https://github.com/ANUSER1) |
 Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
   </div>
     
