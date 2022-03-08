@@ -11,8 +11,6 @@
 #### TOTAL REPO VIEWS📍
 ![Visitor Count](https://profile-counter.glitch.me/ANUSER1/count.svg)
   
-### TOTAL WEBSITE VISIT
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwhitedevil-bot.yolasite.com&count_bg=%2379C83D&title_bg=%23030303&icon=webauthn.svg&icon_color=%23FFFAFA&title=WEBSITE+VISITORS&edge_flat=false)](https://whitedevil-bot.yolasite.com)
 
 
 <div align="center">
@@ -20,16 +18,14 @@
 <img src=https://i.imgur.com/CtaexU3.jpeg>
 </p>
 
-<img src=https://i.ibb.co/s1CSFK7/ae6572d653ee04f78fc986bddd89d5b3.png>
-</p>
 
 
   <p align="center">
-<a href="https:"><img title="Author" src="https://img.shields.io/badge/Author--Amruthesh/AMRU-SER?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https:"><img title="Author" src="https://img.shields.io/badge/Author--ANSHID/ANUSER?color=black&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/AMRUSIR-AMRUSER">AMRU-SER</a> to make it public
+Project created by <a href="https://github.com/ANUSER1/COSMIC">ANUSER</a> to make it public
     <br>
        | © |
         Reserved |
@@ -42,16 +38,16 @@ Project created by <a href="https://github.com/AMRUSIR-AMRUSER">AMRU-SER</a> to 
 
 ## Click Instagram logo to follow this page👇
 
- [![ANY DOUBT REFER IT](https://i.imgur.com/j1x0HpA.jpeg)](https://instagram.com/its_me_dron)
+ [![ANY DOUBT REFER IT](https://i.imgur.com/j1x0HpA.jpeg)](https://instagram.com/_0anshid0_)
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AMRUSIR/AMRU-SER.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ANUSER1/COSMIC.git)
 
 
 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ABUOP1/AMRU-SER-QR?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ANUSER1/Bot-QR?v=1)
   
 ### The Hard Method
 ```js
