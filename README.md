@@ -87,10 +87,10 @@ $ node julie.js
 ℂ𝕃𝕀ℂ𝕂 𝕎𝔸 𝕃𝕆𝔾𝕆 𝔸ℕ𝔻 𝕁𝕆𝕀ℕ 𝕋ℍ𝔼 𝔾ℝ𝕆𝕌ℙ👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/DnHJu25Ccss7zn72nPhL8z)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/KeEMhqBW644IN46PYsGDWf)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ANUSRR1&repo=COSMIC&theme=nightowl)](https://github.com/ANUSER1/COSMIC)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ANUSER1&repo=COSMIC&theme=nightowl)](https://github.com/ANUSER1/COSMIC)
   </div>
     
 ### ⚠ 𝕎𝕒𝕣𝕟𝕚𝕟𝕘 ⚠
