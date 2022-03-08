@@ -15,7 +15,7 @@
 
 <div align="center">
   <p align="center">
-<img src=https://i.imgur.com/CtaexU3.jpeg>
+<img src=https://COSMIC.jpg>
 </p>
 
 
